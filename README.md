@@ -2,6 +2,8 @@
 
 JAMS Galatica FM is a brand conceived by the website authors freind. The JAMS Galatica FM creator likes to collect and mix together electronic music, and this site brings together Soundcloud mixes, media content and upcoming events into one convenient location. JAMS Galactica FM is targeted towards an audience that enjoys listening to a particular genre of electronic music and would like to keep informed about other activities of the creator of JAMS Galatica FM. This site will be useful for music fans to find a selection of music mixes, mix videos, event photos and find out about upcoming events.  
 
+It should be noted, that this is currently a concept website. Currently, the aim is to display the principal purpose of the website. Due to not having enough available content to fill the website, there is some repeated content until more is made available by the JAMS Galatica FM creator.
+
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -26,17 +28,28 @@ The site
 
 - __Home Page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The home page provides the user with some information about the JAMS Galatica FM project and it's creator. 
+  - The user will also be presented with the most latest mix produced by the JAMS Galatica FM creator, so they can get an idea if the website will suit their taste in music without exploring further. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Media Page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will allow the user to scroll through the collection of mixes produced by the JAMS Galatica FM creator. In addition, the user can view a collection of photos and vidoes taken from past events.  
   - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
+- __Contact Page__
+
+  - The contact page will allow the user to submit their details and a description of project collaborations. 
+  - This section is valuable to the user as they will be able to easily submit their ideas to JAMS Glatica FM.
+
+- __Upcoming Events Page__
+
+  - The upcoming events page will inform the user of any upcoming events the creator of JAMS Galatica FM has ligned up. 
+  - This section will be updated as these times change to keep the user up to date. 
+
 
 - __The Footer__ 
 
@@ -44,28 +57,7 @@ The site
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
+,
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -111,6 +103,12 @@ You can break the credits section up into Content and Media, depending on what y
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The main website structure and code used for this project has been duplicated from the Code Institutes CV website mini project. Various styling changes have been made to repurpose the structure of the website specific to this project.
+- The footer code used for this project has been dulicated from the Code Institutes Love Running website mini project.
+- The source code for the scrolling features added into Mix Discography and Gallery sections of the Media page was taken from https://stackoverflow.com/questions/40112618/bootstrap4-adding-scrollbar-to-div
+- The source code for the gallery layout of Media page was taken from 
+
+
 
 ### Media
 
