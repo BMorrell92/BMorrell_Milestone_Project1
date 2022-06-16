@@ -93,7 +93,7 @@ header {
 }
 
 .heading {
-    margin-left: 50px;
+    text-align: center;
 }
 
 .bg-color-name-title {
@@ -109,9 +109,9 @@ header {
 
 .name {
     font-family: "Exo", sans-serif;
-    font-weight: 500;
-    font-size: 46px;
-    margin-top: 50px;
+    font-weight: 700;
+    font-size: 60px;
+    margin-top: 75px;
     color: rgb(227, 18, 202);
 }
 
