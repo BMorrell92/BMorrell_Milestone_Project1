@@ -24,39 +24,42 @@ The site
   -  Featured on all four pages, the Title Banner covers the full width and includes a GIF with text overlay to introduce the name of the project. 
   - This section introduces the user to JAMS Galatica FM with a fun and eye-catching animation to grab their attention and sets a "Cosmic" tone to the website.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Title Banner](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_title_banner.JPG)
 
 - __Home Page__
 
   - The home page provides the user with some information about the JAMS Galatica FM project and it's creator. 
   - The user will also be presented with the most latest mix produced by the JAMS Galatica FM creator, so they can get an idea if the website will suit their taste in music without exploring further. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Home Page](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_home.JPG)
 
 - __Media Page__
 
   - This section will allow the user to scroll through the collection of mixes produced by the JAMS Galatica FM creator. In addition, the user can view a collection of photos and vidoes taken from past events.  
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Media Page](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_media.JPG)
 
 - __Contact Page__
 
   - The contact page will allow the user to submit their details and a description of project collaborations. 
   - This section is valuable to the user as they will be able to easily submit their ideas to JAMS Glatica FM.
 
+![Contact Page](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_contact.JPG)
+
 - __Upcoming Events Page__
 
   - The upcoming events page will inform the user of any upcoming events the creator of JAMS Galatica FM has ligned up. 
   - This section will be updated as these times change to keep the user up to date. 
 
+![Events Page](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_events.JPG)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/BMorrell92/BMorrell_Milestone_Project1/blob/main/assets/images/website_footer.JPG)
 ,
 ## Testing 
 
