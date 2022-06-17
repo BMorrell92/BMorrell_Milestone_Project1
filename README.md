@@ -86,7 +86,7 @@ This wesbite and all it's functionalities work as intended on all devices and br
 
 ### Unfixed Errors
 
-The 9 errors retunred were mainly assosciated with the external embedd links. After further investigation they were found to be either innocuous or false positives, and, due to time contraints, they were left unaddressed. The website remains perfectly functional with these unfixed errors, but, ideally, further investigation would be needed to address them.
+The 9 errors retunred were mainly assosciated with the external embedd links. After further investigation they were found to be either innocuous or false positives, and, due to time contraints, they were left unaddressed. The website remains perfectly functional with these unfixed errors.
 
 ## Deployment
 
