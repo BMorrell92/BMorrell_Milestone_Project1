@@ -2,16 +2,24 @@
 
 /*--------------------------------------------Colors*/
 
-.bg-color-three-reasons {
-    background-color: #fff;
+.bg-color-about-section {
+    background-color: rgb(183, 218, 169);
 }
 
-.bg-color-personal-info {
-    background-color: #f4f4f4;
+.bg-color-gallery-section {
+    background-color: rgb(220, 221, 164);
 }
 
-.bg-color-work-history {
-    background-color: #9b59b6;
+.bg-color-latest-mix {
+    background-color: #f7bfcd;
+}
+
+.bg-color-mix-history {
+    background-color: #7b6bda;
+}
+
+.bg-color-events-timeline {
+    background-color: #7b6bda;
 }
 
 .bg-color-contact {
@@ -22,7 +30,7 @@
     background-color: #0bcef5;
 }
 
-.ui-menu-color-resume {
+.ui-menu-color-media {
     background-color: #982fe8;
 }
 
@@ -30,7 +38,7 @@
     background-color: #13f37b;
 }
 
-.ui-menu-color-download {
+.ui-menu-color-events {
     background-color: #e863c4;
 }
 
@@ -70,7 +78,7 @@ h4 {
 .history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
+    font-weight: 600;
     margin-top: 25px;
     margin-bottom: 40px;
 }
@@ -96,7 +104,7 @@ header {
     text-align: center;
 }
 
-.bg-color-name-title {
+.bg-title-banner {
     background: url("../images/giphy.gif");
     background-position: center;
     background-repeat: no-repeat;
@@ -107,21 +115,12 @@ header {
     -webkit-transition: all .5s ease-in-out;
 }
 
-.name {
+.title {
     font-family: "Exo", sans-serif;
     font-weight: 700;
     font-size: 60px;
     margin-top: 75px;
     color: rgb(227, 18, 202);
-}
-
-.title {
-    font-family: "Roboto", sans-serif;
-    font-weight: 200;
-    font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 90px;
-    color: #fff;
 }
 
 .list-inline-item:not(:last-child) {
@@ -205,81 +204,27 @@ footer {
     color: #777777;
     
 }
-/* ----------------------------------------Three Reasons */
+/* ----------------------------------------About section */
 
-.three-reasons-icon {
+.about-icon {
     font-size: 26px;
     color: #e67e22;
 }
 
-.three-reasons-heading {
+.about-heading {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Personal Info */
-
-.personal-info-item {
-    margin-bottom: 20px;
-    display: block;
-    clear: both;
-}
-
-.personal-info-item .key,
-.personal-info-item .value {
-    padding-right: 8px;
-    display: inline-block;
-}
-
-.personal-info-item .key p,
-.personal-info-item .value p {
-    margin: 0;
-}
-
-.personal-info-item .key {
-    width: 30%;
-    margin-right: 21px;
-    padding-top: 2px;
-    vertical-align: top;
-}
-
-.personal-info-item .key p {
-    font-weight: 700;
-}
-
-.personal-info-item .value {
-    position: relative;
-    width: 60%;
-}
+/* ----------------------------------------Mix History */
 
 .mixscroll {
     height: 400px;
     overflow-y: scroll;
 }
 
-/* ----------------------------------------Skills */
+/* ----------------------------------------Upcoming Events*/
 
-.progress {
-    position: relative;
-    height: 25px;
-    margin-bottom: 4px;
-}
-
-.progress-type {
-    position: absolute;
-    left: 0px;
-    font-weight: 400;
-    padding: 3px 30px 2px 10px;
-    color: #fafafa;
-    background-color: rgba(25, 25, 25, 0.2);
-}
-
-.progress-section {
-    margin: 40px 20px;
-}
-
-/* ----------------------------------------Work History */
-
-.history-heading {
+.events-heading {
     color: #fafafa;
     margin-bottom: 50px;
 }
@@ -321,7 +266,7 @@ footer {
     background: #fafafa;
 }
 
-.history-items {
+.events-items {
     margin-bottom: 30px;
 }
 
