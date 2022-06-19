@@ -80,13 +80,12 @@ This wesbite and all it's functionalities work as intended on all devices and br
 ### Validator Testing 
 
 - HTML
-  - 9 errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2F). However, these errors are not affecting the functinality of the website.
+  - index.html: 0 errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2F).
+  - media.html: 2 errors were returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2Fmedia.html). The two errors were investigated further and found to be false positives. 
+  - contact.html: 0 errors were returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2Fcontact.html)
+  - events.html: 2 errors were returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2Fevents.html). The two errors were investigated further and found to be false positives. 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbmorrell92.github.io%2FBMorrell_Milestone_Project1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-### Unfixed Errors
-
-The 9 errors retunred were mainly assosciated with the external embedd links. After further investigation they were found to be either innocuous or false positives, and, due to time contraints, they were left unaddressed. The website remains perfectly functional with these unfixed errors.
 
 ## Deployment
 
