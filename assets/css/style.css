@@ -222,6 +222,13 @@ footer {
     overflow-y: scroll;
 }
 
+.soundcloud { 
+  
+    width: 96%;
+    max-width: 60em;
+    margin: 0 auto;
+    
+  }
 /* ----------------------------------------Upcoming Events*/
 
 .events-heading {
