@@ -19,7 +19,7 @@
 }
 
 .bg-color-events-timeline {
-    background-color: #7b6bda;
+    background-color: #628ba7;
 }
 
 .bg-color-contact {
@@ -42,6 +42,16 @@
     background-color: #e863c4;
 }
 
+.events-decoration {
+    background: url("../images/giphy2.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
 /* ----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -71,7 +81,7 @@ h4 {
 
 .section-column {
     display: table-cell;
-    padding: 0 30px 30px;
+    padding: 0 30px 100px;
     float: none;
 }
 
@@ -83,16 +93,7 @@ h4 {
     margin-bottom: 40px;
 }
 
-.events-decoration {
-    background: url("../images/giphy2.gif");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
+
 
 /*--------------------------------------------Heading*/
 
@@ -215,7 +216,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Mix History */
+/* ----------------------------------------Mix Sections */
 
 .mixscroll {
     height: 400px;
