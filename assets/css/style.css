@@ -216,9 +216,9 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Mix Sections */
+/* ----------------------------------------Media Sections */
 
-.mixscroll {
+.sectionscroll {
     height: 400px;
     overflow-y: scroll;
 }
