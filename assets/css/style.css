@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-about-section {
-    background-color: rgb(183, 218, 169);
+    background-color: rgb(220, 221, 164) ;
 }
 
 .bg-color-gallery-section {
@@ -15,7 +15,7 @@
 }
 
 .bg-color-mix-history {
-    background-color: #7b6bda;
+    background-color: #f7bfcd;
 }
 
 .bg-color-events-timeline {
@@ -38,20 +38,6 @@
     background-color: #13f37b;
 }
 
-.ui-menu-color-events {
-    background-color: #e863c4;
-}
-
-.events-decoration {
-    background: url("../images/giphy2.gif");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
 /* ----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -93,8 +79,6 @@ h4 {
     margin-bottom: 40px;
 }
 
-
-
 /*--------------------------------------------Heading*/
 
 header {
@@ -121,7 +105,7 @@ header {
     font-weight: 700;
     font-size: 60px;
     margin-top: 75px;
-    color: rgb(227, 18, 202);
+    color: whitesmoke;
 }
 
 .list-inline-item:not(:last-child) {
@@ -140,6 +124,7 @@ header {
 #nav {
     margin: 0;
 }
+
 
 .menuitem {
     height: 120px;
@@ -202,7 +187,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 1% 5% 1% 5%;
-    color: #777777;
+    color: black;
     
 }
 /* ----------------------------------------About section */
@@ -216,12 +201,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Media Sections */
-
-.sectionscroll {
-    height: 400px;
-    overflow-y: scroll;
-}
+/* ----------------------------------------Soundcloud and Youtube Sections */
 
 .soundcloud { 
   
@@ -230,17 +210,27 @@ footer {
     margin: 0 auto;
     
   }
+
+  .scframe {
+    width: 100%;
+    height: 450px
+}
+
+.ytframe {
+    width: 100%;
+    height: 315px
+}
 /* ----------------------------------------Upcoming Events*/
 
 .events-heading {
-    color: #fafafa;
+    color: black;
     margin-bottom: 50px;
 }
 
 .timeline-item {
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #fafafa;
+    color: black;
     border-left: 1px solid;
 }
 
@@ -271,7 +261,7 @@ footer {
     left: -6px;
     border-radius: 12px;
     content: '';
-    background: #fafafa;
+    background: black;
 }
 
 .events-items {
@@ -305,8 +295,11 @@ button[type="submit"] {
 @media(min-width: 992px) {
     .center-form {
         padding-top: 30px;
+        padding-bottom: 100px;
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
     }
 }
+
+
